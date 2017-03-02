@@ -1,0 +1,6 @@
+Projekt se može otvoriti u NetBeans IDE-u, no može se pokrenuti korištenjem komandne linije:
+
+1. Pozicionirati se u mapu dist
+2. java -jar ProjektVAS.jar
+3. Upisati željene parametre - London, Paris, 2017-04-01, 2017-04-10
+
